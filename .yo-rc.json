@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.andigital.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "store",
+    "packageName": "com.andigital.store",
+    "packageFolder": "com/andigital/store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmZiMGY0MmY0YjNmZmEyYThhZDdiMjBhMmZjZjNmMmU3YzU0MjIyMmJlNmYxMDEwZTc5Yzc2MzE0ZWQ3MDhkOTYzNTExYzc1OGZjODdlYzgyOTk4OWYyYTg2OGFkZDkzNDg3Yzg1MzFiOGM2MjY0Y2Y0NTJjZDRkOGYxNmUyYmQ=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
