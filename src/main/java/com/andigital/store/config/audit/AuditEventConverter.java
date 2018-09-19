@@ -3,7 +3,7 @@ package com.andigital.store.config.audit;
 import com.andigital.store.domain.PersistentAuditEvent;
 
 import org.springframework.boot.actuate.audit.AuditEvent;
-import org.springframework.security.web.authentication.WebAuthenticationDetails;
+import org.springframework.security.web.authentication  .WebAuthenticationDetails;
 import org.springframework.stereotype.Component;
 
 import java.util.*;
